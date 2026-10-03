@@ -1,2 +1,2 @@
 # Digital-Forensic-Workshop
-<img src="IGDTUW/workshop1.jpg" alt="event" width="900" height="600">
+<p align="center"><img src="IGDTUW/workshop1.jpg" alt="event"></p>
