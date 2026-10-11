@@ -5,7 +5,7 @@
 |Victim|person affected by crime|
 |Accused|person alleged to have committed a crime|
 |Suspect|individual under a police observation|
-|Culprit|person or thing at fault for a problem or crime|
+|Culprit|someone who responsible for committing a crime|
 
 
 
