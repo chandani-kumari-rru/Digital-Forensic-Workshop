@@ -1,5 +1,5 @@
-# Digital-Forensic-Workshop
-Fancy Words of Digital Forensic: Victim, Accused, Suspect Culprit
+
+### Fancy Words of Digital Forensic:
 |Fancy Words|Definition|
 |---|---|
 |Victim|person affected by crime|
@@ -9,5 +9,5 @@ Fancy Words of Digital Forensic: Victim, Accused, Suspect Culprit
 
 
 
-
+### Digital-Forensic-Workshop
 <p align="center"><img src="IGDTUW/workshop1.jpg" alt="event" height="700"></p>
