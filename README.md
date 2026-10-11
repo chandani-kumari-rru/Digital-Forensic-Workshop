@@ -2,7 +2,7 @@
 Fancy Words of Digital Forensic: Victim, Accused, Suspect Culprit
 |Fancy Words|Definition|
 |---|---|
-|Victim|a person affected by crime|
+|Victim|person affected by crime|
 |Accused|person alleged to have committed a crime|
 |Suspect|individual under a police observation|
 |Culprit|person or thing at fault for a problem or crime|
