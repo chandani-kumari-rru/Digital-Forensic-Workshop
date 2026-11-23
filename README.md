@@ -1,3 +1,9 @@
+# Digital Forensic Workshop
+|Sites|Descricption|
+|---|---|
+|[ISEA](https://isea.app/events/)|Regulary Conduting Cyber Awareness & Updation Courses|
+|[Atal AICTE](https://atalacademy.aicte.gov.in/login)|Regulary Conduting Cyber Awareness & Updation Courses|
+|[IGDTUW](https://www.igdtuw.ac.in/student-life/summer-internships)|Individual Portal of particular college/university|
 
 ### Fancy Words of Digital Forensic:
 |Fancy Words|Definition|
